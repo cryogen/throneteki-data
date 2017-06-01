@@ -1,14 +1,14 @@
 {
     "news" : [{
-        "datePublished": "2017-05-11",
-        "text": "New cards: Winterfell Castle, Plaza of Pride, Bran Stark, The Hand's Judgement, Rickon Stark, Ygritte's immunity effect, Balon Greyjoy (CtA).  Fix Jhogo and Ser Lancel (and possibly others) causing crashes when milked, fix 'xxx has won the game' spam, fix Viserys(core), fix Jaqen."
-    },
-    {
         "datePublished": "2017-05-16",
         "text": "New cards: Gossip and Lies, Treachery, Ghost (WoTW), Catelyn Stark (Core), Winterfell, Wolves of the North, Last Hearth Scouts, Like Warm Rain, Wolf Dreams, Brothel Madame, Ser Alliser Thorne.  Fixes to A Meager Contribution, Battle of the Blackwater, Weirdwood Bow, Kraken's Grasp.  Add prompt for dead pile ordering when multiple characters are killed.  Fix bug attributing wrong player as winner when a 'decking' occurs"
     },
     {
         "datePublished": "2017-05-21",
         "text": "Fixes: Lord of the Crossing now displays the correct STR in chat, The Valyian, Intimidate triggering on defense, Winterfell had the wrong duration, keywords are no loger cancellable, some cards were doubling up on their effects when placed in setup.  New cards: Fishwiskers, In Doran's Name, The Honeywine, The Rose Banner!, Now My Watch Begins, Vengeance for Elia, Sunspear, Dothraki Sea, The Sword in the Darkness, The Watch Has Need, Astapo, Grey Worm, Roaming Wolfpack, Flea Bottom Bastard, Blood Magic Ritual, Dissension, Healing Expertise, Tithe"
+    },
+    {
+        "datePublished": "2017-06-01",
+        "text": "New cards: Support of the People, Without His Bear, Insidious Scheme, Lady Sansa's Rose, Quiet As A Shadow, Taena Merryweather, Builder at the Wall, Daring Rescue, Ours is the Old Way, The Pack Survives, Underground Valut, Frey Lordling, The Twins, Roseroad Patrol, Trial By Combat, Winterfell Crypt, Dornish Fiefdom, Lay Siege, Theon Greyjoy (FoA), Master of Sunspear, The North Remembers, Cersei's Attendant, Fever Dreams, Corsair's Dirk, Spears of the Merling King, Duel, Scaling the Wall, Elinor Tyrell, Ser Horas Redwyne, Levies at the Rock, Tyron's Chain, Recruiter for the Watch.  Fixes to Sword in the Darkness, Dothraki Sea, 'Max Per X' cards, Vengeance for Elia, A Dragon is no Slave, Wolf Dreams, Wintefell, Granting unopposed bonus on defense, attachment restrictions"
     }]
 }
