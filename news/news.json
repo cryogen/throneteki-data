@@ -1,14 +1,14 @@
 {
     "news" : [{
-        "datePublished": "2017-05-21",
-        "text": "Fixes: Lord of the Crossing now displays the correct STR in chat, The Valyian, Intimidate triggering on defense, Winterfell had the wrong duration, keywords are no loger cancellable, some cards were doubling up on their effects when placed in setup.  New cards: Fishwiskers, In Doran's Name, The Honeywine, The Rose Banner!, Now My Watch Begins, Vengeance for Elia, Sunspear, Dothraki Sea, The Sword in the Darkness, The Watch Has Need, Astapo, Grey Worm, Roaming Wolfpack, Flea Bottom Bastard, Blood Magic Ritual, Dissension, Healing Expertise, Tithe"
-    },
-    {
         "datePublished": "2017-06-01",
         "text": "New cards: Support of the People, Without His Bear, Insidious Scheme, Lady Sansa's Rose, Quiet As A Shadow, Taena Merryweather, Builder at the Wall, Daring Rescue, Ours is the Old Way, The Pack Survives, Underground Valut, Frey Lordling, The Twins, Roseroad Patrol, Trial By Combat, Winterfell Crypt, Dornish Fiefdom, Lay Siege, Theon Greyjoy (FoA), Master of Sunspear, The North Remembers, Cersei's Attendant, Fever Dreams, Corsair's Dirk, Spears of the Merling King, Duel, Scaling the Wall, Elinor Tyrell, Ser Horas Redwyne, Levies at the Rock, Tyron's Chain, Recruiter for the Watch.  Fixes to Sword in the Darkness, Dothraki Sea, 'Max Per X' cards, Vengeance for Elia, A Dragon is no Slave, Wolf Dreams, Wintefell, Granting unopposed bonus on defense, attachment restrictions"
     },
     {
         "datePublished": "2017-06-10",
         "text": "New cards: The Red Wedding, You Murdered Her Children, The Scorpion's Sting, Black Bertha, Tarred Heads, The Council Consents, All Men Are Fools, Attack From The Mountains, Raiding the Bay of Ice, The Last of the Giants, There Are No Men Like Me, House Tully Septon, Hot Pie, Abandoned Stronghold, Frey Bastard, Frey Hospitality, Catapult on the Wall, The White Shadows, Silver Hair Net, Vaes Dothrak, Ahead of the Tide, Loot.  Fixes for Maester of Sunspear, Marched To The Wall, Funeral Pyre, Duel"
+    },
+    {
+        "datePublished": "2017-06-19",
+        "text": "New cards: The White Shadows, Silver Hair Net, Vaes Dothrak, Ahead of the Tide, Loot, I Shall Win No Glory, Implement Viserys Targaryen (AtSK), Dornish Revenge, As Hard As Winter, Dragon Sight, Wheels Within Wheels, Spearmaiden, Stonesnake, Drowned Disciple, Walder Frey, A Lannister Always Pays His Debts"
     }]
 }
